@@ -1,0 +1,4 @@
+.DS_Store
+lib/testeph/*.o
+src/*.o
+Solar_Term_20210101_000000.dat
