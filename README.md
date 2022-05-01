@@ -4,7 +4,7 @@
 
 ## 程序说明
 
-本程序在 gcc 与 gfortran 11.2.0下编译通过!
+    本程序在 gcc 与 gfortran 11.2.0下编译通过!
 
        (1) bin
               可执行文件目录
@@ -25,19 +25,19 @@
 
 打开终端，将路径切换至src下，执行：
 
-```
+```bash
 make    
 ```
 
 或
 
-       ```bash
-       make -f makefile
-       ```
+```bash
+make -f makefile
+```
 
 ### 程序运行方法
 
-        打开终端，将路径切换至bin下，执行：
-       ```bash
-       ./SolarTerms
-       ```
+打开终端，将路径切换至bin下，执行：
+ ```bash
+./SolarTerms
+```
